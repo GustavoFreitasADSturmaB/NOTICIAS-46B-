@@ -1,8 +1,8 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Inter", sans-serif;
+    font-family: "inter", sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 
@@ -32,30 +32,30 @@ body {
     background: nome;
 }
 
-.primeira-secao {
+.primeira-seção {
     margin-bottom: 4rem;
 }
 
-.primeira-secao img {
+.primeira-seção img {
     width: 100%;
     margin-bottom: 1.5rem;
 }
 
-.primeira-secao h1 {
+.primeira-seção h1 {
     font-size: 2.5rem;
     line-height: 100%;
     color: var(--dark-blue);
     margin-bottom: 1rem;
 }
 
-.primeira-secao p {
-    font-size: 09375rem;
+.primeira-seção p {
+    font-size: 0.9375;
     line-height: 1.625rem;
     color: var(--gummetal);
     margin-bottom: 1.5rem;
 }
 
-.primeira-secao button {
+.primeira-seção button {
     padding: 0.75rem 2rem;
     background-color: var(--vermillion);
     border: nome;
